@@ -3,74 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="ICONE.ico" type="Aula-03/ICONE"
+    <link rel="shortcut icon" href="ICONE.ico" type="Aula-03/ICONE">
     <title></title>
 </head>
 <body>
-    <h1> LISTAS DE ATIVIDADES NA SEMANA</h1>
-    <hr>
-    <p> Aqui estou mostrando com será a rotina da semana do dia 26/02 até 30/02</p>
-    <!--
-    <img src="NEWTON1.jpg" alt="logo do newton">
-    -->
-    <ol start="2">
+    <h1> ....LISTA DE ATIVIDADES NA SEMANA...</h1>
+    
+    <p> Aqui estou mostrando com será a rotina da semana do dia 26/02 até 01/03</p>
+    
+    
+    <img src="NEWTON1.jpg" alt="logo do Newton">
+    <img src="NEWTON2.jpg" alt="foto do Newton"> 
+    <img src="BARAO1.png" alt="logo do barão">
+    <img src="BARAO2.jpg" alt="foto do Barão">
+    
+    
+    
         <li>Segunda-feira</li>
-        <ol>
-            <li>07:15 - 08:05 3D</li>
-            <li>08:05 - 08:55 H.A.</li>
-            <li>09:10 - 10:00   </li>
-            <li>10:00 - 10:15 --INTERVALO--</li>
-            <li>10:15 - 11:05 3E</li>
-            <li>11:05 - 11:55 3C</li>
-            <li>11:55 - 12:45 3D</li>
-
-        </ol>
+        <a href="segunda.html" target="_blank">Horário de segunda-feira dia 26/02</a>
+    
         <li>Terça-feira</li>
-        <ol>
-            <li>07:15 - 08:05 2D - Informática</li>
-            <li>08:05 - 08:55 2C - Informática</li>
-            <li>09:10 - 10:00   </li>
-            <li>10:00 - 10:15 --INTERVALO--</li>
-            <li>10:15 - 11:05 H.A.</li>
-            <li>11:05 - 11:55 2D</li>
-            <li>11:55 - 12:45 2E</li>
-
-        </ol>
+        <a href="terca.html" target="_blank">Horário de terça-feira dia 27/02</a>
+    
         <li>Quarta-feira</li>
-        <ol>
-            <li>07:15 - 08:05 H.A.</li>
-            <li>08:05 - 08:55 2D</li>
-            <li>09:10 - 10:00   </li>
-            <li>10:00 - 10:15 --INTERVALO--</li>
-            <li>10:15 - 11:05 H.A.</li>
-            <li>11:05 - 11:55 3E</li>
-            <li>11:55 - 12:45 2D</li>
-
-        </ol>
+        <a href="quarta.html" target="_blank">Horário de quarta-feira dia 27/02</a>
+        
         <li>Quinta-feira</li>
-        <ol>
-            <li>07:15 - 08:05 2C</li>
-            <li>08:05 - 08:55 3D - Informática</li>
-            <li>09:10 - 10:00 2E  </li>
-            <li>10:00 - 10:15 --INTERVALO--</li>
-            <li>10:15 - 11:05 3D</li>
-            <li>11:05 - 11:55 H.A.</li>
-            <li>11:55 - 12:45 3C</li>
-
-        </ol>
+        <a href="quinta.html" target="_blank">Horário de quinta-feira dia 27/02</a>
+        
         <li>Sexta-feira</li>
-        <ol>
-            <li>07:15 - 08:05 MESTRADO</li>
-            <li>08:05 - 08:55 MESTRADO</li>
-            <li>09:10 - 10:00 MESTRADO  </li>
-            <li>10:00 - 10:15 MESTRADO</li>
-            <li>10:15 - 11:05 MESTRADO</li>
-            <li>11:05 - 11:55 MESTRADO</li>
-            <li>11:55 - 12:45 MESTRADO</li>
-
-        </ol>
-
+        <a href="sexta.html" target="_blank">Horário de sexta-feira dia 27/02</a>
+        
     </ol>
+    <h2> PARA VER TODOS OS ARQUIVOS</h2>
+    <a href="https://github.com/rogeriodfreis/HTML-CSS" target="_blank">Acesse o GitHub para pegar os exemplos feitos</a>
+
+    <h2> PARA BAIXAR ESSE CONTEUDO EM PDF</h2>
+    <a href="https://github.com/rogeriodfreis/HTML-CSS/blob/main/COINI.pdf" target="_blank"  download="COINI.pdf" type="aplication/pdf">
+        Baixe aqui seu PDF dos principais comandos.
+    </a>
+     <h2> PARA PUBLICAR O SITE</h2>
+    
+    <p> Rotinas para publicar o site.</p>
+    
     
 </body>
 </html>
